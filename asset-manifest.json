@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://myself-i-me.github.io/csb-whm3j2/static/css/main.10d6a708.chunk.css",
+    "main.js": "https://myself-i-me.github.io/csb-whm3j2/static/js/main.39abbe3b.chunk.js",
+    "main.js.map": "https://myself-i-me.github.io/csb-whm3j2/static/js/main.39abbe3b.chunk.js.map",
+    "runtime-main.js": "https://myself-i-me.github.io/csb-whm3j2/static/js/runtime-main.70bde13c.js",
+    "runtime-main.js.map": "https://myself-i-me.github.io/csb-whm3j2/static/js/runtime-main.70bde13c.js.map",
+    "static/js/2.c9335df9.chunk.js": "https://myself-i-me.github.io/csb-whm3j2/static/js/2.c9335df9.chunk.js",
+    "static/js/2.c9335df9.chunk.js.map": "https://myself-i-me.github.io/csb-whm3j2/static/js/2.c9335df9.chunk.js.map",
+    "index.html": "https://myself-i-me.github.io/csb-whm3j2/index.html",
+    "precache-manifest.35cef27494e3fca5abab3faf1104a176.js": "https://myself-i-me.github.io/csb-whm3j2/precache-manifest.35cef27494e3fca5abab3faf1104a176.js",
+    "service-worker.js": "https://myself-i-me.github.io/csb-whm3j2/service-worker.js",
+    "static/css/main.10d6a708.chunk.css.map": "https://myself-i-me.github.io/csb-whm3j2/static/css/main.10d6a708.chunk.css.map",
+    "static/js/2.c9335df9.chunk.js.LICENSE.txt": "https://myself-i-me.github.io/csb-whm3j2/static/js/2.c9335df9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70bde13c.js",
+    "static/js/2.c9335df9.chunk.js",
+    "static/css/main.10d6a708.chunk.css",
+    "static/js/main.39abbe3b.chunk.js"
+  ]
+}
